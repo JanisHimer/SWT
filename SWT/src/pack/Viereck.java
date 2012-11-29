@@ -23,8 +23,9 @@ public class Viereck {
             int da = Math.abs(d.x - a.x);
             if (ab == bc && cd == da && bc == cd) {
                 return true;
+                
             }
-        }
+        } system.out.println("Ihr seid doch scheiße!");
         return false;
     }
    
