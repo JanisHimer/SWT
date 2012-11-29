@@ -25,7 +25,7 @@ public class Viereck {
                 return true;
                 
             }
-        } system.out.println("Ihr seid doch scheiße!");
+        }
         return false;
     }
    
